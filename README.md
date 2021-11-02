@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Chiaooo/Chiaooo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Github Overview
-
-<img align="left" alt="Chiao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chiao&show_icons=true&theme=vue-dark" />    &nbsp;
+## Chiao's Github Overview
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiao&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiao&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+  
+## Language
+![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a) 
+![Typescript](http://img.shields.io/badge/-Typescript-CC342D?style=flat-square&logo=Typescript&logoColor=ffe8e8)
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
+![Goland](http://img.shields.io/badge/-Golang-6DB33F?style=flat-square&logo=Goland&logoColor=ffffff)
