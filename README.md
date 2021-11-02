@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ## Github Overview
 
-<img align="left" alt="Chiao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chiao&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiao)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="Chiao's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Chiao&show_icons=true&theme=vue-dark" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiao&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
