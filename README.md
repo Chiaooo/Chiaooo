@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Chiao's Github Overview
 [![Chiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiaooo&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&count_private=true&theme=vue-dark&layout=compact&card_width=250)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&count_private=true&theme=vue-dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Visits Badge](https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks)](https://badges.pufler.dev)
   
