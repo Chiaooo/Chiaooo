@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Chiao's Github Overview
-[![Chiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiao&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiao&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
+[![Chiao's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiaooo&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&theme=vue-dark&count_private=true&layout=compact&card_width=417)](https://github.com/anuraghazra/github-readme-stats)  
+
+[![Visits Badge](https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks)](https://badges.pufler.dev)
   
 ## Language
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a) 
