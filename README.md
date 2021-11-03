@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Chiao's Github Overview
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chiao&theme=vue-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiao&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chiao&theme=vue-dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats) 
   
 ## Language
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a) 
