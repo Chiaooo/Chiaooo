@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">  
+  
 ## Chiao's Github Overview
+  
+  </div>
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiaooo&theme=vue-dark&count_private=true&locale=cn&bg_color=E800E8,4B0091,FF5151" />
@@ -30,7 +34,13 @@ Here are some ideas to get you started:
   </div>
   </br></br>  
   
+<div align="center">  
+  
 ## Language
+  
+  </div>
+ <div align="center">
+  
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffff4a) 
 ![Typescript](http://img.shields.io/badge/-Typescript-CC342D?style=for-the-badge&logo=Typescript&logoColor=ffe8e8)
 ![Java](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
@@ -38,8 +48,18 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/-MySQL-3564AF?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-
+  
+</div>
+<div align="center">
+  
 ## Frameworks Platforms and Libraries  
+  
+  </div>
+  
+  <div align="center">
+  
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+  
+  </div>
