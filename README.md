@@ -21,9 +21,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&count_private=true&theme=vue-dark&layout=compact" />
 </a>
-</div>  
-
-[![Visits Badge](https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks)](https://badges.pufler.dev)
+</div>
+</br></br>  
+<div align="center">
+  <a href="https://badges.pufler.dev">
+    <img align="center" src="https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks"/>
+  </a>
+  </div>
+  </br></br>  
   
 ## Language
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffff4a) 
