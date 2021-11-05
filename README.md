@@ -13,12 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Chiao's Github Overview
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiaooo&theme=vue-dark&count_private=true" />
-</a>
+</a>  
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&count_private=true&theme=vue-dark&layout=compact" />
 </a>
+</div>  
 
 [![Visits Badge](https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks)](https://badges.pufler.dev)
   
