@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 ## Chiao's Github Overview
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiaooo&theme=vue-dark&count_private=true&card_width=700" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chiaooo&theme=vue-dark&count_private=true" />
 </a>  
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&count_private=true&theme=vue-dark&layout=compact&card_width=700" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chiaooo&count_private=true&theme=vue-dark&layout=compact&card_width=400" />
 </a>
 </div>
 </br></br>  
