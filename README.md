@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 </br></br>  
 <div align="center">
   <a href="https://badges.pufler.dev">
-    <img align="center" src="https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks"/>
+    <img align="center" src="https://badges.pufler.dev/visits/Chiaooo/SchoolHomeworks"/>  
+    <img align="center" src="https://badges.pufler.dev/commits/monthly/Chiaooo"/>
   </a>
   </div>
   </br></br>  
@@ -62,4 +63,5 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   
+![Metrics](https://metrics.lecoq.io/Chiaooo?template=classic&config.timezone=Asia%2FShanghai)
   </div>
