@@ -46,6 +46,7 @@ Here are some ideas to get you started:
 ![Java](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-3564AF?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 </div>
 <div align="center">
   
@@ -59,7 +60,5 @@ Here are some ideas to get you started:
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=#white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/tensorflow-%236DB33F.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
-  
-![Metrics](https://metrics.lecoq.io/Chiaooo?template=classic&config.timezone=Asia%2FShanghai)
+![TensorFlow](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
   </div>
