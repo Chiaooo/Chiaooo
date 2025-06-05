@@ -46,7 +46,6 @@ Here are some ideas to get you started:
 ![Java](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-3564AF?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 </div>
 <div align="center">
   
