@@ -43,13 +43,9 @@ Here are some ideas to get you started:
  <div align="center">
   
 ![Python](http://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=ffff4a) 
-![Typescript](http://img.shields.io/badge/-Typescript-CC342D?style=for-the-badge&logo=Typescript&logoColor=ffe8e8)
 ![Java](http://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
-![Goland](http://img.shields.io/badge/-Golang-6DB33F?style=for-the-badge&logo=Goland&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-3564AF?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-  
 </div>
 <div align="center">
   
